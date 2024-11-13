@@ -1,0 +1,8 @@
+
+2024-11-13 16:46:57,452 - INFO - Info data pre train models random forest
+2024-11-13 16:46:57,452 - INFO - 
+                "score_random_forest":0.9709306441033402,
+                "mean_squared_random_forest":0.0005379466316970839,
+                "mean_absolute_random_forest":0.009373335609521017,
+                "r2_score_random_forest":0.9401377490507405,
+                "root_mean_squared_random_forest":0.023193676545495843

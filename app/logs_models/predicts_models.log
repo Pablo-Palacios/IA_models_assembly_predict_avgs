@@ -1,0 +1,8 @@
+2024-11-13 16:46:11,504 - INFO - Info prediction avg model ramdon forest
+2024-11-13 16:46:11,504 - INFO - 
+                    "xgbregressor_predict":0.099
+                    
+2024-11-13 16:46:42,395 - INFO - Info prediction avg models
+2024-11-13 16:46:42,395 - INFO - 
+                "promedio_ia_avg":0.10000000000000002,
+                "manual_avg":0.1
